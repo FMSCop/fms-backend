@@ -1,0 +1,72 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "Jakarta Timur",
+    "province": "DKI Jakarta"
+  },
+  {
+    "city_id": 11,
+    "city_name": "Jakarta Pusat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "city_id": 12,
+    "city_name": "Jakarta Barat",
+    "province": "DKI Jakarta"
+  },
+  {
+    "city_id": 13,
+    "city_name": "Jakarta Utara",
+    "province": "DKI Jakarta"
+  },
+  {
+    "city_id": 14,
+    "city_name": "Jakarta Selatan",
+    "province": "DKI Jakarta"
+  },
+  {
+    "city_id": 2,
+    "city_name": "Bandung",
+    "province": "Jawa Barat"
+  },
+  {
+    "city_id": 3,
+    "city_name": "Surabaya",
+    "province": "Jawa Timur"
+  },
+  {
+    "city_id": 4,
+    "city_name": "Medan",
+    "province": "Sumatera Utara"
+  },
+  {
+    "city_id": 5,
+    "city_name": "Makassar",
+    "province": "Sulawesi Selatan"
+  },
+  {
+    "city_id": 6,
+    "city_name": "Yogyakarta",
+    "province": "DI Yogyakarta"
+  },
+  {
+    "city_id": 7,
+    "city_name": "Semarang",
+    "province": "Jawa Tengah"
+  },
+  {
+    "city_id": 8,
+    "city_name": "Denpasar",
+    "province": "Bali"
+  },
+  {
+    "city_id": 9,
+    "city_name": "Palembang",
+    "province": "Sumatera Selatan"
+  },
+  {
+    "city_id": 10,
+    "city_name": "Balikpapan",
+    "province": "Kalimantan Timur"
+  }
+]
